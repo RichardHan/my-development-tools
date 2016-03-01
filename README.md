@@ -17,6 +17,7 @@ Here I will publish development tools, which I use or intend to use.
 
 6. [IDE] Visual Studio 2015 Enterprise
 
+7. [IDE Extension] - Web Essentials 2015 for Visual Studio - http://vswebessentials.com/download
 
 ## Linux(Ubuntu) environment
 
