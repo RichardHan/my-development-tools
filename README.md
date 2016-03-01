@@ -13,7 +13,9 @@ Here I will publish development tools, which I use or intend to use.
 
 4. [Visual diff and merge tool] Meld - http://meldmerge.org/
 
-10. [IDE] Visual Studio 2015 Enterprise
+5. [MongoDB management tool] Robomongo - http://app.robomongo.org/download.html
+
+6. [IDE] Visual Studio 2015 Enterprise
 
 
 ## Linux(Ubuntu) environment
@@ -25,3 +27,5 @@ Here I will publish development tools, which I use or intend to use.
 3. [Editor] Sublime Text 3 - https://www.sublimetext.com/3
 
 4. [Visual diff and merge tool] Meld - http://meldmerge.org/
+
+5. [MongoDB management tool] Robomongo - http://app.robomongo.org/download.html
