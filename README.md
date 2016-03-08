@@ -19,6 +19,8 @@ Here I will publish development tools, which I use or intend to use.
 
 7. [IDE Extension] - Web Essentials 2015 for Visual Studio - http://vswebessentials.com/download
 
+8. [console emulator] - Cmder - http://cmder.net/
+
 ## Linux(Ubuntu) environment
 
 1. [Git client] SmartGit - http://www.syntevo.com/smartgit/
