@@ -48,20 +48,21 @@ Here I will publish development tools, which I use or intend to use.
  #
  # [Install Package Control] - https://packagecontrol.io/installation
  #
- # Install Sublime Package => Emmet - https://github.com/sergeche/emmet-sublime
- # Install Sublime Package => SideBarEnhancements - https://packagecontrol.io/packages/SideBarEnhancements
- # Install Sublime Package => Bracket​Highlighter
- # Install Sublime Package => SublimeCodeIntel
- # Install Sublime Package => HTML5
- # Install Sublime Package => Sublime​Linter - https://packagecontrol.io/packages/SublimeLinter
- # Install Sublime Package => Live​Style - http://livestyle.io/
- # Install Sublime Package => HTML-CSS-JS Prettify [CTRL + SHIFT + H]
- # Install Sublime Package => Git
- # Install Sublime Package => Doc​Blockr - https://packagecontrol.io/packages/DocBlockr
- # Install Sublime Package => SideBarGit
- # Install Sublime Package => Theme - Soda - https://packagecontrol.io/packages/Theme%20-%20Soda
- # Install Sublime Package => Markdown Preview
- # Install Sublime Package => ReactJS
+ # Emmet - https://github.com/sergeche/emmet-sublime
+ # SideBarEnhancements - https://packagecontrol.io/packages/SideBarEnhancements
+ # Bracket​Highlighter
+ # SublimeCodeIntel
+ # HTML5
+ # Sublime​Linter - https://packagecontrol.io/packages/SublimeLinter
+ # Live​Style - http://livestyle.io/
+ # HTML-CSS-JS Prettify [CTRL + SHIFT + H]
+ # Git
+ # Doc​Blockr - https://packagecontrol.io/packages/DocBlockr
+ # SideBarGit
+ # Theme - Soda - https://packagecontrol.io/packages/Theme%20-%20Soda
+ # Markdown Preview
+ # ReactJS
+ # Babel 
  
 
  ```
