@@ -60,5 +60,6 @@ Here I will publish development tools, which I use or intend to use.
  # Install Sublime Package => Doc​Blockr - https://packagecontrol.io/packages/DocBlockr
  # Install Sublime Package => SideBarGit
  # Install Sublime Package => Theme - Soda - https://packagecontrol.io/packages/Theme%20-%20Soda
+ # Install Sublime Package => Markdown Preview
 
  ```
