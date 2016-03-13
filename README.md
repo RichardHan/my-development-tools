@@ -62,6 +62,7 @@ Here I will publish development tools, which I use or intend to use.
  # Theme - Soda - https://packagecontrol.io/packages/Theme%20-%20Soda
  # Markdown Preview
  # ReactJS
+ # JSX
  # Babel 
  # SCSS
  
