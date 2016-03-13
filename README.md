@@ -66,11 +66,10 @@ Here I will publish development tools, which I use or intend to use.
  # Babel 
  # SCSS
  
-
  ```
  
- 
- ## Docker Install
+
+## Docker Install
  ```
  sudo apt-get update
  sudo apt-get install apt-transport-https ca-certificates
