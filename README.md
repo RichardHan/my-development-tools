@@ -100,7 +100,8 @@ Here I will publish development tools, which I use or intend to use.
 		"SideBarGit",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"Theme - Soda"
+		"Theme - Soda",
+		"Indent XML"
 	]
 }
 
