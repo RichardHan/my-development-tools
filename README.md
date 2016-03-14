@@ -46,7 +46,7 @@ Here I will publish development tools, which I use or intend to use.
 ## Sublime 3 Package Installed
  ```
  #
- # [Install Package Control] - https://packagecontrol.io/installation
+ # [Install Package Control] - https://packagecontrol.io/installation and install one by one.
  #
  # Emmet - https://github.com/sergeche/emmet-sublime
  # SideBarEnhancements - https://packagecontrol.io/packages/SideBarEnhancements
@@ -65,6 +65,44 @@ Here I will publish development tools, which I use or intend to use.
  # JSX
  # Babel 
  # SCSS
+ 
+ OR 
+
+#
+# Update Preferences.sublime-settings directly by following,
+# 
+# [Windows] C:\Users\{username}\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings
+# [Linux(Ubuntu)] /home/{username}/.config/sublime-text-3/Packages/User/User/Preferences.sublime-settings
+#
+
+ {
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"JSX",
+		"LiveStyle",
+		"Markdown Preview",
+		"Package Control",
+		"ReactJS",
+		"SCSS",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - Soda"
+	]
+}
+
  
  ```
  
