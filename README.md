@@ -68,12 +68,12 @@ Here I will publish development tools, which I use or intend to use.
  
  OR 
 
-#
-# Update Preferences.sublime-settings directly by following,
-# 
-# [Windows] C:\Users\{username}\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings
-# [Linux(Ubuntu)] /home/{username}/.config/sublime-text-3/Packages/User/User/Preferences.sublime-settings
-#
+ #
+ # Update Preferences.sublime-settings directly by following,
+ # 
+ # [Windows] C:\Users\{username}\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings
+ # [Linux(Ubuntu)] /home/{username}/.config/sublime-text-3/Packages/User/Preferences.sublime-settings
+ #
 
  {
 	"bootstrapped": true,
