@@ -25,7 +25,7 @@ Here I will publish development tools, which I use or intend to use.
 
 ## Linux(Ubuntu 15.10) environment
 
-1. [Git client] SmartGit - http://www.syntevo.com/smartgit/
+1. [Git client] SmartGit - http://www.syntevo.com/smartgit/download (Download Debian package)
 
 2. [Editor] ATOM - https://atom.io/
 
