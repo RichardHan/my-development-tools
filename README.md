@@ -66,11 +66,12 @@ Here I will publish development tools, which I use or intend to use.
  # Babel 
  # SCSS
  # Indent XML
- 
- OR 
+```
 
- #
- # Using Dropbox syncing all packages - https://packagecontrol.io/docs/syncing#dropbox
+OR
+
+Using Dropbox syncing all packages - https://packagecontrol.io/docs/syncing#dropbox
+```
  # 
  # [Windows] C:\Users\{username}\AppData\Roaming\Sublime Text 3\Packages\User\
  # [Linux(Ubuntu)] /home/{username}/.config/sublime-text-3/Packages/User/
