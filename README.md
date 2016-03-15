@@ -7,33 +7,33 @@ Here I will publish development tools, which I use or intend to use.
 
 1. [Git client] SmartGit - http://www.syntevo.com/smartgit/
 
-2. [Editor] ATOM - https://atom.io/
+2. [Editor] Sublime Text 3 - https://www.sublimetext.com/3
 
-3. [Editor] Sublime Text 3 - https://www.sublimetext.com/3
+3. [Visual diff and merge tool] Meld - http://meldmerge.org/
 
+4. [MongoDB management tool] Robomongo - http://app.robomongo.org/download.html
 
+5. [IDE] Visual Studio 2015 Enterprise
 
-4. [Visual diff and merge tool] Meld - http://meldmerge.org/
+6. [IDE Extension] - Web Essentials 2015 for Visual Studio - http://vswebessentials.com/download
 
-5. [MongoDB management tool] Robomongo - http://app.robomongo.org/download.html
+7. [Console emulator] - Cmder - http://cmder.net/
 
-6. [IDE] Visual Studio 2015 Enterprise
+8. [Sync Tool] - Dropbox 
 
-7. [IDE Extension] - Web Essentials 2015 for Visual Studio - http://vswebessentials.com/download
-
-8. [console emulator] - Cmder - http://cmder.net/
 
 ## Linux(Ubuntu 15.10) environment
 
 1. [Git client] SmartGit - http://www.syntevo.com/smartgit/download (Download Debian package)
 
-2. [Editor] ATOM - https://atom.io/
+2. [Editor] Sublime Text 3 - https://www.sublimetext.com/3
 
-3. [Editor] Sublime Text 3 - https://www.sublimetext.com/3
+3. [Visual diff and merge tool] Meld - http://meldmerge.org/
 
-4. [Visual diff and merge tool] Meld - http://meldmerge.org/
+4. [MongoDB management tool] Robomongo - http://app.robomongo.org/download.html
 
-5. [MongoDB management tool] Robomongo - http://app.robomongo.org/download.html
+5. [Sync Tool] - Dropbox  
+
 
 
 ## Linux(Ubuntu) command install memo
