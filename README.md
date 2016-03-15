@@ -70,42 +70,12 @@ Here I will publish development tools, which I use or intend to use.
  OR 
 
  #
- # Update Preferences.sublime-settings directly by following,
+ # Using Dropbox syncing all packages - https://packagecontrol.io/docs/syncing#dropbox
  # 
- # [Windows] C:\Users\{username}\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings
- # [Linux(Ubuntu)] /home/{username}/.config/sublime-text-3/Packages/User/Preferences.sublime-settings
+ # [Windows] C:\Users\{username}\AppData\Roaming\Sublime Text 3\Packages\User\
+ # [Linux(Ubuntu)] /home/{username}/.config/sublime-text-3/Packages/User/
  #
 
- {
-	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
-	"installed_packages":
-	[
-		"Babel",
-		"BracketHighlighter",
-		"DocBlockr",
-		"Emmet",
-		"Git",
-		"HTML-CSS-JS Prettify",
-		"HTML5",
-		"JSX",
-		"LiveStyle",
-		"Markdown Preview",
-		"Package Control",
-		"ReactJS",
-		"SCSS",
-		"SideBarEnhancements",
-		"SideBarGit",
-		"SublimeCodeIntel",
-		"SublimeLinter",
-		"Theme - Soda",
-		"Indent XML"
-	]
-}
-
- 
  ```
  
 
