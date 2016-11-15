@@ -19,9 +19,11 @@ Here I will publish development tools, which I use or intend to use.
 
 7. [IDE Extension] - GitFlow for Visual Studio 2015 - https://visualstudiogallery.msdn.microsoft.com/f5ae0a1d-005f-4a09-a19c-3f46ff30400a
 
-8. [Console emulator] - Cmder - http://cmder.net/
+8. [IDE Extension] - Web Extension Pack - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebExtensionPack
 
-9. [Sync Tool] - Dropbox 
+9. [Console emulator] - Cmder - http://cmder.net/
+
+10. [Sync Tool] - Dropbox 
 
 
 ## Linux(Ubuntu 15.10) environment
